@@ -96,6 +96,11 @@ export enum NDKKind {
     ClientAuth = 22242,
     NostrConnect = 24133,
 
+    // NIP-47: Nostr Wallet Connect
+    NWCInfoEvent = 13194,
+    NWCRequest = 23194,
+    NWCResponse = 23195,
+
     HttpAuth = 27235,
 
     ProfileBadge = 30008,
