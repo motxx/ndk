@@ -101,6 +101,9 @@ export enum NDKKind {
     NWCRequest = 23194,
     NWCResponse = 23195,
 
+    // NIP-67: Nostr Wallet Auth
+    NWARequest = 33194,
+
     HttpAuth = 27235,
 
     ProfileBadge = 30008,
